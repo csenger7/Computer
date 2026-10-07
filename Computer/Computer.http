@@ -1,0 +1,6 @@
+@Computer_HostAddress = http://localhost:5090
+
+GET {{Computer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
